@@ -1,0 +1,92 @@
+1. Finish this constructor
+
+
+public class WhiteBoardMarker {
+
+       private int inkLeft; 
+
+       private String color;
+
+
+
+      public WhiteBoardMarker (String color, int inkLeft) {
+				syso(color+" is the color you are painting with.  you finished painting");
+				if(inkleft<= 1){
+				syso("you have no mre cans of paint");
+				
+				}
+				else
+}
+
+
+
+
+
+}
+
+
+2. Make a constructor for the Dinosaur class.
+
+
+public class Dinosaur {
+
+       private String species; 
+
+       private boolean carniverous;
+
+       private int yearExtinct;
+
+public Dinosuar (){
+
+
+
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+3. Fix any problems with the following constructors.
+
+
+class Hell {
+
+      void Hell(int hotness) {
+
+
+
+      }
+
+}
+
+public class Bacon {
+
+      String style = "streaky";
+
+      Bacon (String style) {
+            style = style;
+      }
+
+}
+
+public class Unicorn {
+
+
+      private Unicorn() {
+            this.horns = 1;
+      }
+
+}
+
+class Narwhal {
+
+      public Narwhale(){}
+
+}
